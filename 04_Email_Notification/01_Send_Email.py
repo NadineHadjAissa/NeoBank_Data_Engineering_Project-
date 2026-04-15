@@ -115,11 +115,11 @@ from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 
 # Gmail account
-EMAIL = "databeli13@gmail.com"
+EMAIL = "n_hadjaissa@estin.dz"
 APP_PASSWORD = gmail_api_key
 
 # Receiver
-to_email = "databeli13@gmail.com"
+to_email = "reciever@gmail.com"
 
 # Create message
 msg = MIMEMultipart()
